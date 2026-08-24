@@ -1,0 +1,190 @@
+{
+  "app": {
+    "name": "بلاغات مدنية",
+    "tagline": "صوتك مسموع. بلّغ. تابع. حل."
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "createReport": "إنشاء بلاغ",
+    "myReports": "بلاغاتي",
+    "admin": "لوحة التحكم",
+    "login": "تسجيل الدخول",
+    "register": "حساب جديد",
+    "logout": "تسجيل الخروج",
+    "profile": "حسابي",
+    "notifications": "الإشعارات"
+  },
+  "home": {
+    "hero": {
+      "title": "بلّغ عن مشاكل البنية التحتية",
+      "subtitle": "ساعد في تحسين مجتمعك بالإبلاغ عن الحفر، الإنارة المعطلة، تسريبات المياه، وغيرها.",
+      "cta": "أبلغ عن مشكلة",
+      "viewMap": "عرض الخريطة"
+    },
+    "stats": {
+      "totalReports": "إجمالي البلاغات",
+      "resolved": "تم الحل",
+      "resolutionRate": "نسبة الحل",
+      "activeUsers": "المستخدمين النشطين"
+    },
+    "filters": {
+      "all": "الكل",
+      "category": "التصنيف",
+      "status": "الحالة",
+      "neighborhood": "الحي",
+      "search": "ابحث عن بلاغات...",
+      "leaderboard": "لوحة الصدارة"
+    },
+    "leaderboard": {
+      "title": "لوحة صدارة العمل المدني",
+      "subtitle": "إحصائيات الأحياء النشطة والمواطنين الأكثر نشاطاً",
+      "neighborhoodRank": "ترتيب الأحياء",
+      "heroRank": "أكثر المواطنين نشاطاً",
+      "resolutionRate": "نسبة الحل",
+      "totalIssues": "إجمالي البلاغات",
+      "trustScore": "مستوى الثقة",
+      "reportsCount": "البلاغات",
+      "rank": "الترتيب"
+    }
+  },
+  "report": {
+    "create": {
+      "title": "إنشاء بلاغ جديد",
+      "reportTitle": "العنوان",
+      "titlePlaceholder": "عنوان مختصر للمشكلة",
+      "description": "الوصف",
+      "descPlaceholder": "اوصف المشكلة بالتفصيل...",
+      "category": "التصنيف",
+      "location": "الموقع",
+      "locationHint": "اضغط على الخريطة أو استخدم تحديد الموقع التلقائي",
+      "image": "الصورة",
+      "imageHint": "ارفع صورة للمشكلة (أقصى حجم 5 ميجا)",
+      "neighborhood": "الحي",
+      "neighborhoodPlaceholder": "مثلاً: المعادي، مدينة نصر",
+      "anonymous": "إبلاغ مجهول الهوية",
+      "submit": "إرسال البلاغ",
+      "submitting": "جاري الإرسال...",
+      "aiSuggestion": "اقتراح الذكاء الاصطناعي",
+      "aiSuggestCategory": "التصنيف المقترح",
+      "duplicateWarning": "بلاغات مشابهة بالقرب",
+      "duplicateMessage": "هل تفضل التصويت على بلاغ موجود بدلاً من إنشاء جديد؟",
+      "detectLocation": "تحديد موقعي",
+      "chooseOnMap": "اختر على الخريطة"
+    },
+    "detail": {
+      "by": "بواسطة",
+      "anonymous": "مجهول",
+      "status": "الحالة",
+      "priority": "الأولوية",
+      "upvotes": "التصويتات",
+      "upvote": "تصويت",
+      "upvoted": "تم التصويت",
+      "timeline": "تسلسل الحالة",
+      "feedback": "هل تم حل المشكلة فعلاً؟",
+      "feedbackYes": "نعم، تم الحل!",
+      "feedbackNo": "لا، المشكلة لسه موجودة",
+      "feedbackComment": "تعليقات إضافية (اختياري)",
+      "feedbackSubmit": "إرسال التقييم",
+      "delete": "حذف البلاغ",
+      "deleteConfirm": "هل أنت متأكد من حذف هذا البلاغ؟"
+    },
+    "categories": {
+      "pothole": "حفرة",
+      "lighting": "إنارة",
+      "water_leak": "تسريب مياه",
+      "garbage": "قمامة",
+      "other": "أخرى"
+    },
+    "statuses": {
+      "new": "جديد",
+      "under_review": "قيد المراجعة",
+      "in_progress": "جاري العمل",
+      "resolved": "تم الحل",
+      "rejected": "مرفوض"
+    },
+    "priorities": {
+      "low": "منخفضة",
+      "medium": "متوسطة",
+      "high": "عالية"
+    }
+  },
+  "auth": {
+    "features": {
+      "report": "أبلغ عن المشاكل فوراً",
+      "track": "تابع حالة الحل",
+      "ai": "مساعدة بالذكاء الاصطناعي",
+      "map": "خريطة تفاعلية"
+    },
+    "login": {
+      "title": "مرحباً بعودتك",
+      "subtitle": "سجّل دخول لحسابك",
+      "email": "البريد الإلكتروني",
+      "password": "كلمة المرور",
+      "submit": "تسجيل الدخول",
+      "noAccount": "ليس لديك حساب؟",
+      "register": "أنشئ حساباً"
+    },
+    "register": {
+      "title": "انضم إلينا",
+      "subtitle": "أنشئ حسابك وابدأ بالإبلاغ",
+      "name": "الاسم الكامل",
+      "email": "البريد الإلكتروني",
+      "password": "كلمة المرور",
+      "confirmPassword": "تأكيد كلمة المرور",
+      "neighborhood": "الحي (اختياري)",
+      "phone": "رقم الهاتف (اختياري)",
+      "submit": "إنشاء الحساب",
+      "hasAccount": "عندك حساب بالفعل؟",
+      "login": "سجّل دخول"
+    }
+  },
+  "admin": {
+    "title": "لوحة التحكم",
+    "stats": "الإحصائيات",
+    "reports": "البلاغات",
+    "changeStatus": "تغيير الحالة",
+    "note": "أضف ملاحظة (اختياري)",
+    "noteHint": "اشرح سبب تغيير الحالة",
+    "update": "تحديث الحالة",
+    "sort": {
+      "newest": "الأحدث",
+      "oldest": "الأقدم",
+      "priority": "الأولوية"
+    }
+  },
+  "chat": {
+    "title": "المساعد الذكي",
+    "placeholder": "اكتب رسالتك...",
+    "send": "إرسال",
+    "welcome": "أهلاً! ازاي أقدر أساعدك؟"
+  },
+  "profile": {
+    "title": "حسابي",
+    "myReports": "بلاغاتي",
+    "upvotedReports": "بلاغات صوّت عليها",
+    "settings": "الإعدادات",
+    "editProfile": "تعديل الملف الشخصي",
+    "noReports": "لم تنشئ أي بلاغات بعد."
+  },
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ ما",
+    "retry": "حاول مرة أخرى",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "close": "إغلاق",
+    "back": "رجوع",
+    "next": "التالي",
+    "viewAll": "عرض الكل",
+    "noResults": "لا توجد نتائج",
+    "createdAt": "تاريخ الإنشاء",
+    "updatedAt": "آخر تحديث"
+  },
+  "footer": {
+    "about": "عن المنصة",
+    "aboutText": "بلاغات مدنية هي منصة تربط بين المواطنين والجهات المسؤولة لتحسين البنية التحتية.",
+    "links": "روابط سريعة",
+    "contact": "تواصل معنا",
+    "rights": "جميع الحقوق محفوظة."
+  }
+}

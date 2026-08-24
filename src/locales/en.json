@@ -1,0 +1,190 @@
+{
+  "app": {
+    "name": "Civic Report",
+    "tagline": "Your voice matters. Report. Track. Resolve."
+  },
+  "nav": {
+    "home": "Home",
+    "createReport": "Create Report",
+    "myReports": "My Reports",
+    "admin": "Dashboard",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "profile": "Profile",
+    "notifications": "Notifications"
+  },
+  "home": {
+    "hero": {
+      "title": "Report Infrastructure Issues",
+      "subtitle": "Help improve your community by reporting potholes, broken streetlights, water leaks, and more.",
+      "cta": "Report an Issue",
+      "viewMap": "View Map"
+    },
+    "stats": {
+      "totalReports": "Total Reports",
+      "resolved": "Resolved",
+      "resolutionRate": "Resolution Rate",
+      "activeUsers": "Active Users"
+    },
+    "filters": {
+      "all": "All",
+      "category": "Category",
+      "status": "Status",
+      "neighborhood": "Neighborhood",
+      "search": "Search reports...",
+      "leaderboard": "Leaderboard"
+    },
+    "leaderboard": {
+      "title": "Civic Leaderboard",
+      "subtitle": "Active neighborhoods and top active citizens",
+      "neighborhoodRank": "Neighborhood Rankings",
+      "heroRank": "Top Active Citizens",
+      "resolutionRate": "Resolution Rate",
+      "totalIssues": "Total Issues",
+      "trustScore": "Trust Score",
+      "reportsCount": "Reports",
+      "rank": "Rank"
+    }
+  },
+  "report": {
+    "create": {
+      "title": "Create New Report",
+      "reportTitle": "Title",
+      "titlePlaceholder": "Brief title for the issue",
+      "description": "Description",
+      "descPlaceholder": "Describe the issue in detail...",
+      "category": "Category",
+      "location": "Location",
+      "locationHint": "Click on the map or use auto-detect",
+      "image": "Photo",
+      "imageHint": "Upload a photo of the issue (max 5MB)",
+      "neighborhood": "Neighborhood",
+      "neighborhoodPlaceholder": "e.g., Downtown, Al Maadi",
+      "anonymous": "Report anonymously",
+      "submit": "Submit Report",
+      "submitting": "Submitting...",
+      "aiSuggestion": "AI Suggestion",
+      "aiSuggestCategory": "Suggested category",
+      "duplicateWarning": "Similar reports found nearby",
+      "duplicateMessage": "Would you like to upvote an existing report instead?",
+      "detectLocation": "Detect My Location",
+      "chooseOnMap": "Choose on Map"
+    },
+    "detail": {
+      "by": "Reported by",
+      "anonymous": "Anonymous",
+      "status": "Status",
+      "priority": "Priority",
+      "upvotes": "Upvotes",
+      "upvote": "Upvote",
+      "upvoted": "Upvoted",
+      "timeline": "Status Timeline",
+      "feedback": "Was this issue resolved?",
+      "feedbackYes": "Yes, resolved!",
+      "feedbackNo": "No, still an issue",
+      "feedbackComment": "Additional comments (optional)",
+      "feedbackSubmit": "Submit Feedback",
+      "delete": "Delete Report",
+      "deleteConfirm": "Are you sure you want to delete this report?"
+    },
+    "categories": {
+      "pothole": "Pothole",
+      "lighting": "Lighting",
+      "water_leak": "Water Leak",
+      "garbage": "Garbage",
+      "other": "Other"
+    },
+    "statuses": {
+      "new": "New",
+      "under_review": "Under Review",
+      "in_progress": "In Progress",
+      "resolved": "Resolved",
+      "rejected": "Rejected"
+    },
+    "priorities": {
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High"
+    }
+  },
+  "auth": {
+    "features": {
+      "report": "Report issues instantly",
+      "track": "Track resolution status",
+      "ai": "AI-powered assistance",
+      "map": "Interactive map view"
+    },
+    "login": {
+      "title": "Welcome Back",
+      "subtitle": "Sign in to your account",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Sign In",
+      "noAccount": "Don't have an account?",
+      "register": "Create one"
+    },
+    "register": {
+      "title": "Join Us",
+      "subtitle": "Create your account and start reporting",
+      "name": "Full Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "neighborhood": "Neighborhood (optional)",
+      "phone": "Phone (optional)",
+      "submit": "Create Account",
+      "hasAccount": "Already have an account?",
+      "login": "Sign in"
+    }
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "stats": "Statistics",
+    "reports": "Reports",
+    "changeStatus": "Change Status",
+    "note": "Add a note (optional)",
+    "noteHint": "Explain the status change",
+    "update": "Update Status",
+    "sort": {
+      "newest": "Newest",
+      "oldest": "Oldest",
+      "priority": "Priority"
+    }
+  },
+  "chat": {
+    "title": "AI Assistant",
+    "placeholder": "Type your message...",
+    "send": "Send",
+    "welcome": "Hi! How can I help you today?"
+  },
+  "profile": {
+    "title": "My Profile",
+    "myReports": "My Reports",
+    "upvotedReports": "Upvoted Reports",
+    "settings": "Settings",
+    "editProfile": "Edit Profile",
+    "noReports": "You haven't created any reports yet."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "save": "Save",
+    "cancel": "Cancel",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "viewAll": "View All",
+    "noResults": "No results found",
+    "createdAt": "Created",
+    "updatedAt": "Updated"
+  },
+  "footer": {
+    "about": "About",
+    "aboutText": "Civic Report is a platform that bridges the gap between citizens and authorities for better infrastructure.",
+    "links": "Quick Links",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  }
+}
